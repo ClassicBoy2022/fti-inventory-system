@@ -1,0 +1,8 @@
+{
+  "name": "Forestry Training Institute (FTI) Digital Campus",
+  "description": "Official institutional portal and digital campus for the Forestry Training Institute. Features academic departments, student portal, admissions, warehouse and library management previews, and institutional archives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
